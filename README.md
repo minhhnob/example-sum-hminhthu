@@ -1,2 +1,3 @@
 # example-sum-hminhthu
- A library helps you calculate the sum of any three numbers.  Simple, user-friendly, extremely lightweight.
+
+<p>Welcome to <strong>example-sum-hminhthu</strong>, a simple JavaScript library that provides utility functions to work with objects, arrays, and perform basic arithmetic operations.</p>
