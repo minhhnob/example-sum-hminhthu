@@ -88,3 +88,7 @@ console.log(result);  // Output: 6
   <li><strong>Returns</strong>: The sum of the three numbers.</li>
 </ul>
 
+## License
+
+<p>This project is licensed under the MIT License.</p>
+
